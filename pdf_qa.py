@@ -16,6 +16,7 @@ import chainlit as cl
 import PyPDF2
 from io import BytesIO
 
+import hgtk
 
 from dotenv import load_dotenv
 
